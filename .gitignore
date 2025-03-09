@@ -50,3 +50,6 @@ dist/
 
 # Python packaging
 *.egg-info/
+
+# Personal API key file
+apiKeys.txt
