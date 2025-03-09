@@ -1,0 +1,52 @@
+# .gitignore for Python project
+#
+# This file tells Git which files and directories to ignore when committing changes.
+# It includes common Python-specific files, virtual environment directories, and IDE/editor settings.
+#
+# Commonly ignored:
+# - Python bytecode files (*.pyc, __pycache__/)
+# - Virtual environment directories (venv/, .env/)
+# - IDE/editor-specific configuration (e.g., .vscode/, .idea/)
+# - Jupyter notebook checkpoints (.ipynb_checkpoints/)
+# - Test-related files and logs (*.log, .coverage)
+# - Temporary files (.tmp)
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# .mypy
+.mypy_cache/
+
+# Test-related files
+.coverage
+nosetests.xml
+coverage.xml
+
+# Logs and other files
+*.log
+*.tmp
+
+# Environment variable files
+.env
+
+# Build directories
+build/
+dist/
+
+# Python packaging
+*.egg-info/
