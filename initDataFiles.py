@@ -21,10 +21,10 @@ Data Storage Format:
         2000-07-05\0212.0107
 
 Usage:
-    Run the script to download and save the initial dataset.
+    Run the script to download and save the initial datasets.
 
 Author: Emmet Szewczyk
-Date: 3/9/25
+Date: 3/11/25
 """
 
 from getApiKey import *
@@ -83,9 +83,10 @@ def downloadH8Data(H8_SeriesIds_Filepaths: dict, client: FredApiClient) -> None:
             print(f"  Dataset: {dataset}")  # Print the dataset name
 
             # Fetch the time-series data from the FRED API using the series ID
-            data = client.getSeries(seriesID)
+            data = client.getSeries(str(seriesID))
 
             # Convert the fetched data into a 2D list format (i.e., [[date, value], ...])
+            
             parsedData = seriesToTwoDimensionalList(data)
 
             # Attempt to write the parsed data to the corresponding file path
@@ -100,7 +101,7 @@ def downloadH8Data(H8_SeriesIds_Filepaths: dict, client: FredApiClient) -> None:
             # Pause for 5 seconds to avoid hitting API rate limits
             time.sleep(5)
 
-def unwrapH41Dict(H41Data, recursionDepth, client):
+def unwrapH41Dict(H41Data: dict, recursionDepth: int, client: FredApiClient):
     """
     Recursively traverses the nested H41 dataset dictionary to download time-series data.
 
@@ -141,7 +142,7 @@ def unwrapH41Dict(H41Data, recursionDepth, client):
                         print(f"{'  ' * recursionDepth}    {recursionDepth}) Failed to write data to: {filePath}")
 
                     # Pause for 5 seconds to avoid hitting API rate limits
-                    time.sleep(10)
+                    time.sleep(5)
 
                 except Exception as e:
                     print(f"Error fetching series {seriesId}: {e}")
@@ -150,7 +151,7 @@ def unwrapH41Dict(H41Data, recursionDepth, client):
             unwrapH41Dict(value, recursionDepth + 1, client)
 
 # Set up API key and client
-apiKey = getApiKey
+apiKey = getApiKey()
 client = FredApiClient(apiKey)
 
 # Get series IDs and file paths for H8 Dataset
@@ -158,8 +159,13 @@ H8_SeriesIds_Filepaths = parseH8Series()
 
 # Download and Save the H8 Data
 # UNCOMMENT TO DOWNLOAD DATA
-downloadH8Data(H8_SeriesIds_Filepaths, client)
+#downloadH8Data(H8_SeriesIds_Filepaths, client)
 
 # Get series IDs and file paths for H41 Dataset
 H41_SeriesIds_Filepaths = parseH41Series()
-unwrapH41Dict(H41_SeriesIds_Filepaths['table1'], 0, client)
+
+# Download and Save the H41 Data
+for tableNumber in H41_SeriesIds_Filepaths.keys():
+    print(f"Downloading {tableNumber}")
+    # UNCOMMENT TO DOWNLOAD DATA
+    #unwrapH41Dict(H41_SeriesIds_Filepaths[tableNumber], 0, client)

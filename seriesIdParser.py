@@ -25,9 +25,8 @@ Functions:
     - parseH41Series(): Parses the H41 series file and builds a nested dictionary.
 
 Author: Emmet Szewczyk
-Date: 3/10/25
+Date: 3/11/25
 """
-import json
 
 def createH8FilePath(frequency: str, units: str, seriesId: str) -> str:
     """
