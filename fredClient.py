@@ -66,7 +66,7 @@ class FredApiClient:
                     data = self.fred.get_series(seriesId)
                 # Otherwise, get the data in the time period
                 else:
-                    data = self.fred.get_series(seriesId, startDate, endDate)
+                    data = self.fred.get_series(seriesId, observation_start=startDate, observation_end=endDate)
                 return data  # Return the retrieved series
 
             except Exception as e:

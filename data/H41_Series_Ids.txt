@@ -1,0 +1,552 @@
+table1-Reserve Bank Credit-WOFSRBRBC
+table1-Reserve Bank Credit-Securities Held Outright-WSHOSHO
+table1-Reserve Bank Credit-Securities Held Outright-U.S. Treasury Securities-WSHOTSL
+table1-Reserve Bank Credit-Securities Held Outright-U.S. Treasury Securities-Bills-WSHOBL
+table1-Reserve Bank Credit-Securities Held Outright-U.S. Treasury Securities-Notes and Bonds, Nominal-WSHONBNL
+table1-Reserve Bank Credit-Securities Held Outright-U.S. Treasury Securities-Notes and Bonds, Inflation Indexed-WSHONBIIL
+table1-Reserve Bank Credit-Securities Held Outright-U.S. Treasury Securities-Inflation Compensation-WSHOICL
+table1-Reserve Bank Credit-Securities Held Outright-Federal Agency Debt Securities-WSHOFADSL
+table1-Reserve Bank Credit-Securities Held Outright-Mortgage Backed Securities-WSHOMCB
+table1-Reserve Bank Credit-Unamortized Premiums on Securities Held Outright-WUPSHO
+table1-Reserve Bank Credit-Unamortized Descounts on Securities Held Outright-WUDSHO
+table1-Reserve Bank Credit-Repurchase Agreements-WORAL
+table1-Reserve Bank Credit-Repurchase Agreements-Foreign Official-H41RESPPALGTRFNWW
+table1-Reserve Bank Credit-Repurchase Agreements-Others-H41RESPPALGTRONWW
+table1-Reserve Bank Credit-Liquidity and Credit Facilities-WLCFLL
+table1-Reserve Bank Credit-Liquidity and Credit Facilities-Loans-Primary Credit-WLCFLPCL
+table1-Reserve Bank Credit-Liquidity and Credit Facilities-Loans-Secondary Credit-WLCFLSCL
+table1-Reserve Bank Credit-Liquidity and Credit Facilities-Loans-Seasonal Credit-WLCFLSECL
+table1-Reserve Bank Credit-Liquidity and Credit Facilities-Loans-Payroll Protection Program Liquidity Facility-H41RESPPALDJNWW
+table1-Reserve Bank Credit-Liquidity and Credit Facilities-Loans-Bank Term Funding Program-H41RESPPALDKNWW
+table1-Reserve Bank Credit-Liquidity and Credit Facilities-Loans-Other Credit Extensions-WLCFOCEL
+table1-Reserve Bank Credit-Net Portfolio Holdings of MS Facilities 2020 LLC-H41RESPPAAENWW
+table1-Reserve Bank Credit-Net Portfolio Holdings of Municipal Liquidity Facility LLC-H41RESPPAADHNWW
+table1-Reserve Bank Credit-Net Portfolio Holdings of TALF II LLC-H41RESPPAATAL2HNWW
+table1-Reserve Bank Credit-Float-WOFSRBFL
+table1-Reserve Bank Credit-Central Bank Liquidity Swaps-SWPT
+table1-Reserve Bank Credit-Other Federal Reserve Assets-WOFRAL
+table1-Foreign Currency Denominated Assets-WFCDA
+table1-Gold Stock-WOFSRBGSL
+table1-Special Drawing Certificate Account-WOSDRL
+table1-Treasury Cyrrency Outstanding-WTCOL
+table1-Total Factors Supplying Reserve Funds-WTFSRFL
+table1-Currency In Circulation-WCICL
+table1-Reverse Repurchase Agreements-WLRRAL
+table1-Reverse Repurchase Agreements-Foreign Official and International Accounts-WLRRAFOIAL
+table1-Reverse Repurchase Agreements-Others-WLRRAOL
+table1-Treasury Cash Holdings-WOFDRBTHL
+table1-Deposits with F.R. Banks, Other Than Reserve Balances-WOFDRBORBL
+table1-Deposits with F.R. Banks, Other Than Reserve Balances-Term Deposits Held by Depository Institutions-TERMT
+table1-Deposits with F.R. Banks, Other Than Reserve Balances-U.S. Treasury, General Account-WDTGAL
+table1-Deposits with F.R. Banks, Other Than Reserve Balances-Foreign Official-WDFOL
+table1-Deposits with F.R. Banks, Other Than Reserve Balances-Other-WLODL
+table1-Treasury Contribution to Credit Facilities-H41RESH4ENWW
+table1-Other Liabilities and Capital-WOLCL
+table1-Total Factors, Other Than Reserve Balances, Absorbing Reserve Funds-WTFORBAFL
+table1-Reserve Balances with Federal Reserve Banks-WRBWFRBL
+table1A-Securities Held in Custody for Foreign Official and International Accounts-WSEFINTL1
+table1A-Securities Held in Custody for Foreign Official and International Accounts-Marketable U.S. Treasury Securities-WMTSECL1
+table1A-Securities Held in Custody for Foreign Official and International Accounts-Federal Agency Debt and Mortgage-Backed Securities-WFASECL1
+table1A-Securities Held in Custody for Foreign Official and International Accounts-Other Securities-WSEFINOL
+table1A-Securities Lent to Dealers-WSDEALL
+table1A-Securities Lent to Dealers-Overnight Facility-WSDONTL
+table1A-Securities Lent to Dealers-Overnight Facility-U.S. Treasury Securities-WSDTREAL
+table1A-Securities Lent to Dealers-Overnight Facility-Federal Agency Debt Securities-WSDFDSL
+table2-Loans-Maturing Within 15 Days-OTHL15
+table2-Loans-Maturing Within 16 to 90 Days-OTHL1690
+table2-Loans-Maturing Within 91 Days to Year-OTHL91T1Y
+table2-Loans-Maturing Within Over 1 Year to 5 Years-OTHL1T5
+table2-Loans-Maturing Within Over 5 Years to 10 Years-OTHL5T10
+table2-Loans-All Maturities-WLCFLL
+table2-U.S. Treasury Securities-Holdings-Maturing Within 15 Days-TREAS15
+table2-U.S. Treasury Securities-Holdings-Maturing Within 16 to 90 Days-TREAS1590
+table2-U.S. Treasury Securities-Holdings-Maturing Within 91 Days to Year-TREAS911Y
+table2-U.S. Treasury Securities-Holdings-Maturing Within Over 1 Year to 5 Years-TREAS1T5
+table2-U.S. Treasury Securities-Holdings-Maturing Within Over 5 Years to 10 Years-TREAS5T10
+table2-U.S. Treasury Securities-Holdings-Maturing Within Over 10 Years-TREAS10Y
+table2-U.S. Treasury Securities-Holdings-All Maturities-TREAST
+table2-U.S. Treasury Securities-Weekly Changes-Maturing Within 15 Days-RESPPALGUMD15XCH1NWW
+table2-U.S. Treasury Securities-Weekly Changes-Maturing Within 16 to 90 Days-RESPPALGUMD16T90XCH1NWW
+table2-U.S. Treasury Securities-Weekly Changes-Maturing Within 91 Days to Year-RESPPALGUMY01XCH1NWW
+table2-U.S. Treasury Securities-Weekly Changes-Maturing Within Over 1 Year to 5 Years-RESPPALGUMY01T05XCH1NWW
+table2-U.S. Treasury Securities-Weekly Changes-Maturing Within Over 5 Years to 10 Years-RESPPALGUMY05T10XCH1NWW
+table2-U.S. Treasury Securities-Weekly Changes-Maturing Within Over 10 Years-RESPPALGUMY10PXCH1NWW
+table2-U.S. Treasury Securities-Weekly Changes-All Maturities-RESPPALGUMXCH1NWW
+table2-Federal Agency Debt Securities-Holdings-Maturing Within 15 Days-FEDD15
+table2-Federal Agency Debt Securities-Holdings-Maturing Within 16 to 90 Days-FEDD1690
+table2-Federal Agency Debt Securities-Holdings-Maturing Within 91 Days to Year-FEDD911Y
+table2-Federal Agency Debt Securities-Holdings-Maturing Within Over 1 Year to 5 Years-FEDD1T5
+table2-Federal Agency Debt Securities-Holdings-Maturing Within Over 5 Years to 10 Years-FEDD5T10
+table2-Federal Agency Debt Securities-Holdings-Maturing Within Over 10 Years-FEDD10Y
+table2-Federal Agency Debt Securities-Holdings-All Maturities-FEDDT
+table2-Federal Agency Debt Securities-Weekly Changes-Maturing Within 15 Days-RESPPALGAMD15XCH1NWW
+table2-Federal Agency Debt Securities-Weekly Changes-Maturing Within 16 to 90 Days-RESPPALGAMD16T90XCH1NWW
+table2-Federal Agency Debt Securities-Weekly Changes-Maturing Within 91 Days to Year-RESPPALGAMY01XCH1NWW
+table2-Federal Agency Debt Securities-Weekly Changes-Maturing Within Over 1 Year to 5 Years-RESPPALGAMY01T05XCH1NWW
+table2-Federal Agency Debt Securities-Weekly Changes-Maturing Within Over 5 Years to 10 Years-RESPPALGAMY05T10XCH1NWW
+table2-Federal Agency Debt Securities-Weekly Changes-Maturing Within Over 10 Years-RESPPALGAMY10PXCH1NWW
+table2-Federal Agency Debt Securities-Weekly Changes-All Maturities-RESPPALGAMXCH1NWW
+table2-Mortgage Backed Securities-Holdings-Maturing Within 15 Days-MBS15
+table2-Mortgage Backed Securities-Holdings-Maturing Within 16 to 90 Days-MBS1690
+table2-Mortgage Backed Securities-Holdings-Maturing Within 91 Days to Year-MBS911Y
+table2-Mortgage Backed Securities-Holdings-Maturing Within Over 1 Year to 5 Years-MBS1T5
+table2-Mortgage Backed Securities-Holdings-Maturing Within Over 5 Years to 10 Years-MBS5T10
+table2-Mortgage Backed Securities-Holdings-Maturing Within Over 10 Years-MBS10Y
+table2-Mortgage Backed Securities-Holdings-All Maturities-WSHOMCB
+table2-Mortgage Backed Securities-Weekly Changes-Maturing Within 15 Days-RESPPALGASMOD15XCH1NWW
+table2-Mortgage Backed Securities-Weekly Changes-Maturing Within 16 to 90 Days-RESPPALGASMOD16T90XCH1NWW
+table2-Mortgage Backed Securities-Weekly Changes-Maturing Within 91 Days to Year-RESPPALGASMOY01XCH1NWW
+table2-Mortgage Backed Securities-Weekly Changes-Maturing Within Over 1 Year to 5 Years-RESPPALGASMOY01T05XCH1NWW
+table2-Mortgage Backed Securities-Weekly Changes-Maturing Within Over 5 Years to 10 Years-RESPPALGASMOY05T10XCH1NWW
+table2-Mortgage Backed Securities-Weekly Changes-Maturing Within Over 10 Years-RESPPALGASMOY10PXCH1NWW
+table2-Mortgage Backed Securities-Weekly Changes-All Maturities-RESPPALGASMOXCH1NWW
+table2-Loan Participations Held by MS Facilities LLC-Maturing Within 15 Days-H41RESPPAAELD15NWW
+table2-Loan Participations Held by MS Facilities LLC-Maturing Within 16 to 90 Days-H41RESPPAAELD16T90NWW
+table2-Loan Participations Held by MS Facilities LLC-Maturing Within 91 Days to Year-H41RESPPAAELY01NWW
+table2-Loan Participations Held by MS Facilities LLC-Maturing Within Over 1 Year to 5 Years-H41RESPPAAELY01T05NWW
+table2-Loan Participations Held by MS Facilities LLC-All Maturities-H41RESPPAAELNWW
+table2-Repurchase Agreements-Maturing Within 15 Days-REP15
+table2-Repurchase Agreements-Maturing Within 16 to 90 Days-REP1690
+table2-Repurchase Agreements-All Maturities-WORAL
+table2-Central Bank Liquidity Swaps-Maturing Within 15 Days-SWP15
+table2-Central Bank Liquidity Swaps-Maturing Within 16 to 90 Days-SWP1690
+table2-Central Bank Liquidity Swaps-Maturing Within 91 Days to Year-SWP911Y
+table2-Central Bank Liquidity Swaps-Maturing Within Over 1 Year to 5 Years-SWP1T5
+table2-Central Bank Liquidity Swaps-Maturing Within Over 5 Years to 10 Years-SWP5T10
+table2-Central Bank Liquidity Swaps-Maturing Within Over 10 Years-SWP10Y
+table2-Central Bank Liquidity Swaps-All Maturities-SWPT
+table2-Reverse Repurchase Agreements-Maturing Within 15 Days-RREP15
+table2-Reverse Repurchase Agreements-Maturing Within 16 to 90 Days-RREP1690
+table2-Reverse Repurchase Agreements-All Maturities-WLRRAL
+table2-Term Deposits-Maturing Within 15 Days-TERM15
+table2-Term Deposits-Maturing Within 16 to 90 Days-TERM1690
+table2-Term Deposits-Maturing Within 91 Days to Year-TERM911Y
+table2-Term Deposits-All Maturities-TERMT
+table3-Mortgage Backed Securities Held Outright-WSHOMCB
+table3-Mortgage Backed Securities Held Outright-Residential Mortgage Backed Securities-H41RESPPALGASMRNWW
+table3-Mortgage Backed Securities Held Outright-Commercial Mortgage Backed Securities-H41RESPPALGASMSNWW
+table3-Commitments to Buy Mortgage Backed Securities-RESPPALGASMCBNWW
+table3-Commitments to Sell Mortgage Backed Securities-RESPPALGASMCSNWW
+table3-Cash and Cash Equivalents-RESPPALGASMENWW
+table4-MS Facilities 2020 LLC-Outstanding Principal Amount of Loan Extended to the LLC-H41RESPPALDOENWW
+table4-MS Facilities 2020 LLC-Outstanding Amount of Facility Asset Purchases-H41RESPPAAEHANWW
+table4-MS Facilities 2020 LLC-Treasury Contributions and Other Assets-H41RESPPAAEHCNWW
+table4-MS Facilities 2020 LLC-Total-H41RESPPAAENWW
+table5-Assets-Total Assets-WALCL
+table5-Assets-Total Assets-Gold Certificate Account-WGCAL
+table5-Assets-Total Assets-Special Drawing Rights Certificate Account-WOSDRL
+table5-Assets-Total Assets-Coin-WACL
+table5-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-WSRLL
+table5-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Securities Held Outright-WSHOSHO
+table5-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Securities Held Outright-U.S. Treasury Securities-WSHOTSL
+table5-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Securities Held Outright-U.S. Treasury Securities-Bills-WSHOBL
+table5-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Securities Held Outright-U.S. Treasury Securities-Notes and Bonds, Nominal-WSHONBNL
+table5-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Securities Held Outright-U.S. Treasury Securities-Notes and Bonds, Inflation Indexed-WSHONBIIL
+table5-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Securities Held Outright-U.S. Treasury Securities-Inflation Compensation-WSHOICL
+table5-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Securities Held Outright-Federal Agency Debt Securities-WSHOFADSL
+table5-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Securities Held Outright-Mortgage Backed Securities-WSHOMCB
+table5-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Unamoritized Premiums on Securities Held Outright-WUPSHO
+table5-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Unamoritized Discounts on Securities Held Outright-WUDSHO
+table5-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Repurchase Agreements-WORAL
+table5-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Loans-WLCFLL
+table5-Assets-Total Assets-Net Portfolio Holdings of Commercial Paper Funding Facility II LLC-H41RESPPAAC2HNWW
+table5-Assets-Total Assets-Net Portfolio Holdings of Corporate Credit Facilities LLC-H41RESPPAABNWW
+table5-Assets-Total Assets-Net Portfolio Holdings of MS Facilities LLC-H41RESPPAAENWW
+table5-Assets-Total Assets-Net Portfolio Holdings of Municipal Liquidity Facility LLC-H41RESPPAADHNWW
+table5-Assets-Total Assets-Net Portfolio Holdings of TALF II LLC-H41RESPPAATAL2HNWW
+table5-Assets-Total Assets-Items in Process of Collection-WPCLC
+table5-Assets-Total Assets-Bank Premises-WABPL
+table5-Assets-Total Assets-Central Bank Liquidity Swaps-SWPT
+table5-Assets-Total Assets-Foreign Currency Denominated Assets-WFCDA
+table5-Assets-Total Assets-Other Assets-WAOAL
+table5-Liabilities-Total Liabilities-WLTLECL
+table5-Liabilities-Total Liabilities-Federal Reserve Notes, Net of F.R. Bank Holdings-WLFN
+table5-Liabilities-Total Liabilities-Reverse Repurchase Agreements-WLRRAL
+table5-Liabilities-Total Liabilities-Deposits-WLDLCL
+table5-Liabilities-Total Liabilities-Deposits-Term Deposits Held by Depository Institutions-TERMT
+table5-Liabilities-Total Liabilities-Deposits-Other Deposits Held by Depository Institutions-WLODLL
+table5-Liabilities-Total Liabilities-Deposits-U.S. Treasury, General Account-WDTGAL
+table5-Liabilities-Total Liabilities-Deposits-Foreign Official-WDFOL
+table5-Liabilities-Total Liabilities-Deposits-Other-WLODL
+table5-Liabilities-Total Liabilities-Treasury Contributions to Credit Facilities-H41RESH4ENWW
+table5-Liabilities-Total Liabilities-Deferred Availablity of Cash Items-WLDACLC
+table5-Liabilities-Total Liabilities-Other Liabilities and Accrued Dividends-WLAD
+table5-Capital Accounts-Total Capital-WCTCL
+table5-Capital Accounts-Total Capital-Capital Paid In-WCPIL
+table5-Capital Accounts-Total Capital-Surplus-WCSL
+table5-Capital Accounts-Total Capital-Other Capital Accounts-WCPCA
+table6-Assets-Total Assets-All Reserve Branches-RESPPANWW
+table6-Assets-Total Assets-Boston-D1WATAL
+table6-Assets-Total Assets-New York-D2WATAL
+table6-Assets-Total Assets-Philadelphia-D3WATAL
+table6-Assets-Total Assets-Cleveland-D4WATAL
+table6-Assets-Total Assets-Richmond-D5WATAL
+table6-Assets-Total Assets-Atlanta-D6WATAL
+table6-Assets-Total Assets-Chicago-D7WATAL
+table6-Assets-Total Assets-St. Louis-D8WATAL
+table6-Assets-Total Assets-Minneapolis-D9WATAL
+table6-Assets-Total Assets-Kansas City-D10WATAL
+table6-Assets-Total Assets-Dallas-D11WATAL
+table6-Assets-Total Assets-San Francisco-D12WATAL
+table6-Assets-Total Assets-Gold Certificates and Special Drawing Rights Certificates-All Reserve Branches-H41RESPPARNWW
+table6-Assets-Total Assets-Coin-All Reserve Branches-WACL
+table6-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-All Reserve Branches-WSRLL
+table6-Assets-Total Assets-Net Portfolio Holdings of Commercial Paper Funding Facility II LLC-All Reserve Branches-H41RESPPAAC2HNWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Corporate Credit Facilities LLC-All Reserve Branches-H41RESPPAABNWW
+table6-Assets-Total Assets-Net Portfolio Holdings of MS Facilities LLC-All Reserve Branches-H41RESPPAAENWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Municipal Liquidity Facility LLC-All Reserve Branches-H41RESPPAADHNWW
+table6-Assets-Total Assets-Net Portfolio Holdings of TALF II LLC-All Reserve Branches-H41RESPPAATAL2HNWW
+table6-Assets-Total Assets-Central Bank Liquidity Swaps-All Reserve Branches-SWPT
+table6-Assets-Total Assets-Foreign Currency Denominated Assets-All Reserve Branches-WFCDA
+table6-Assets-Total Assets-Other Assets-All Reserve Branches-WAOAL
+table6-Assets-Total Assets-Interdistrict Settlement Account-All Reserve Branches-RESPPANNWW
+table6-Liabilities-Total Liabilities-All Reserve Branches-RESPPLLNWW
+table6-Liabilities-Total Liabilities-Boston-D1WLTOTL
+table6-Liabilities-Total Liabilities-New York-D2WLTOTL
+table6-Liabilities-Total Liabilities-Philadelphia-D3WLTOTL
+table6-Liabilities-Total Liabilities-Cleveland-D4WLTOTL
+table6-Liabilities-Total Liabilities-Richmond-D5WLTOTL
+table6-Liabilities-Total Liabilities-Atlanta-D6WLTOTL
+table6-Liabilities-Total Liabilities-Chicago-D7WLTOTL
+table6-Liabilities-Total Liabilities-St. Louis-D8WLTOTL
+table6-Liabilities-Total Liabilities-Minneapolis-D9WLTOTL
+table6-Liabilities-Total Liabilities-Kansas City-D10WLTOTL
+table6-Liabilities-Total Liabilities-Dallas-D11WLTOTL
+table6-Liabilities-Total Liabilities-San Francisco-D12WLTOTL
+table6-Liabilities-Total Liabilities-Federal Reserve Notes, Net-All Reserve Branches-WLFN
+table6-Liabilities-Total Liabilities-Reverse Repurchase Agreements-All Reserve Branches-WLRRAL
+table6-Liabilities-Total Liabilities-Deposits-All Reserve Branches-RESPPLLDNWW
+table6-Liabilities-Total Liabilities-Deposits-Boston-D1WLDEP
+table6-Liabilities-Total Liabilities-Deposits-New York-D2WLDEP
+table6-Liabilities-Total Liabilities-Deposits-Philadelphia-D3WLDEP
+table6-Liabilities-Total Liabilities-Deposits-Cleveland-D4WLDEP
+table6-Liabilities-Total Liabilities-Deposits-Richmond-D5WLDEP
+table6-Liabilities-Total Liabilities-Deposits-Atlanta-D6WLDEP
+table6-Liabilities-Total Liabilities-Deposits-Chicago-D7WLDEP
+table6-Liabilities-Total Liabilities-Deposits-St. Louis-D8WLDEP
+table6-Liabilities-Total Liabilities-Deposits-Minneapolis-D9WLDEP
+table6-Liabilities-Total Liabilities-Deposits-Kansas City-D10WLDEP
+table6-Liabilities-Total Liabilities-Deposits-Dallas-D11WLDEP
+table6-Liabilities-Total Liabilities-Deposits-San Francisco-D12WLDEP
+table6-Liabilities-Total Liabilities-Deposits-Depository Institutions-All Reserve Branches-H41RESPPLLDENWW
+table6-Liabilities-Total Liabilities-Deposits-U.S. Treasury, General Account-All Reserve Branches-WDTGAL
+table6-Liabilities-Total Liabilities-Deposits-Foreign Official-All Reserve Branches-WDFOL
+table6-Liabilities-Total Liabilities-Deposits-Other-All Reserve Branches-RESPPMLLDONWW
+table6-Liabilities-Total Liabilities-Earnings Remittances Due to the U.S. Treasury-All Reserve Branches-RESPPLLOPNWW
+table6-Liabilities-Total Liabilities-Treasury Contributions to Credit Facilities-All Reserve Branches-H41RESH4EXCH1NWW
+table6-Liabilities-Total Liabilities-Other Liabilities and Accrued Dividends-All Reserve Branches-H41RESPPLLENWW
+table6-Capital-Capital Paid In-All Reserve Branches-WCPIL
+table6-Capital-Surplus-All Reserve Branches-WCSL
+table6-Capital-Other Capital-All Reserve Branches-WCPCA
+table6-Total Liabilities and Capital-All Reserve Branches-RESPPLNWW
+table6-Assets-Total Assets-Gold Certificates and Special Drawing Rights Certificates-Boston-H41RESPPARF01NWW
+table6-Assets-Total Assets-Coin-Boston-D1WACL
+table6-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Boston-D1WSRLL
+table6-Assets-Total Assets-Net Portfolio Holdings of Commercial Paper Funding Facility II LLC-Boston-H41RESPPAAC2HF01NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Corporate Credit Facilities LLC-Boston-H41RESPPAABF01NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of MS Facilities LLC-Boston-H41RESPPAAEF01NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Municipal Liquidity Facility LLC-Boston-H41RESPPAADHF01NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of TALF II LLC-Boston-H41RESPPAATAL2HF01NWW
+table6-Assets-Total Assets-Central Bank Liquidity Swaps-Boston-D1WACBS
+table6-Assets-Total Assets-Foreign Currency Denominated Assets-Boston-D1WFCDA
+table6-Assets-Total Assets-Other Assets-Boston-H41RESPPAEF01NWW
+table6-Assets-Total Assets-Interdistrict Settlement Account-Boston-D1WAISAL
+table6-Liabilities-Total Liabilities-Federal Reserve Notes, Net-Boston-D1WLNNBH
+table6-Liabilities-Total Liabilities-Reverse Repurchase Agreements-Boston-D1WLRRA
+table6-Liabilities-Total Liabilities-Deposits-Depository Institutions-Boston-H41RESPPLLDEF01NWW
+table6-Liabilities-Total Liabilities-Deposits-U.S. Treasury, General Account-Boston-D1WLTGAL
+table6-Liabilities-Total Liabilities-Deposits-Foreign Official-Boston-D1WLFOL
+table6-Liabilities-Total Liabilities-Deposits-Other-Boston-D1WLOCL
+table6-Liabilities-Total Liabilities-Earnings Remittances Due to the U.S. Treasury-Boston-D1WLINT
+table6-Liabilities-Total Liabilities-Treasury Contributions to Credit Facilities-Boston-H41RESH4EF01NWW
+table6-Liabilities-Total Liabilities-Other Liabilities and Accrued Dividends-Boston-H41RESPPLLEF01NWW
+table6-Capital-Capital Paid In-Boston-D1WCPIL
+table6-Capital-Surplus-Boston-D1WCSL
+table6-Capital-Other Capital-Boston-D1WCPCA
+table6-Total Liabilities and Capital-Boston-D1WTLAC
+table6-Assets-Total Assets-Gold Certificates and Special Drawing Rights Certificates-New York-H41RESPPARF02NWW
+table6-Assets-Total Assets-Coin-New York-D2WACL
+table6-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-New York-D2WSRLL
+table6-Assets-Total Assets-Net Portfolio Holdings of Commercial Paper Funding Facility II LLC-New York-H41RESPPAAC2HF02NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Corporate Credit Facilities LLC-New York-H41RESPPAABF02NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of MS Facilities LLC-New York-H41RESPPAAEF02NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Municipal Liquidity Facility LLC-New York-H41RESPPAADHF02NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of TALF II LLC-New York-H41RESPPAATAL2HF02NWW
+table6-Assets-Total Assets-Central Bank Liquidity Swaps-New York-D2WACBS
+table6-Assets-Total Assets-Foreign Currency Denominated Assets-New York-D2WFCDA
+table6-Assets-Total Assets-Other Assets-New York-H41RESPPAEF02NWW
+table6-Assets-Total Assets-Interdistrict Settlement Account-New York-D2WAISAL
+table6-Liabilities-Total Liabilities-Federal Reserve Notes, Net-New York-D2WLNNBH
+table6-Liabilities-Total Liabilities-Reverse Repurchase Agreements-New York-D2WLRRA
+table6-Liabilities-Total Liabilities-Deposits-Depository Institutions-New York-H41RESPPLLDEF02NWW
+table6-Liabilities-Total Liabilities-Deposits-U.S. Treasury, General Account-New York-D2WLTGAL
+table6-Liabilities-Total Liabilities-Deposits-Foreign Official-New York-D2WLFOL
+table6-Liabilities-Total Liabilities-Deposits-Other-New York-D2WLOCL
+table6-Liabilities-Total Liabilities-Earnings Remittances Due to the U.S. Treasury-New York-D2WLINT
+table6-Liabilities-Total Liabilities-Treasury Contributions to Credit Facilities-New York-H41RESH4EF02NWW
+table6-Liabilities-Total Liabilities-Other Liabilities and Accrued Dividends-New York-H41RESPPLLEF02NWW
+table6-Capital-Capital Paid In-New York-D2WCPIL
+table6-Capital-Surplus-New York-D2WCSL
+table6-Capital-Other Capital-New York-D2WCPCA
+table6-Total Liabilities and Capital-New York-D2WTLAC
+table6-Assets-Total Assets-Gold Certificates and Special Drawing Rights Certificates-Philadelphia-H41RESPPARF03NWW
+table6-Assets-Total Assets-Coin-Philadelphia-D3WACL
+table6-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Philadelphia-D3WSRLL
+table6-Assets-Total Assets-Net Portfolio Holdings of Commercial Paper Funding Facility II LLC-Philadelphia-H41RESPPAAC2HF03NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Corporate Credit Facilities LLC-Philadelphia-H41RESPPAABF03NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of MS Facilities LLC-Philadelphia-H41RESPPAAEF03NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Municipal Liquidity Facility LLC-Philadelphia-H41RESPPAADHF03NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of TALF II LLC-Philadelphia-H41RESPPAATAL2HF03NWW
+table6-Assets-Total Assets-Central Bank Liquidity Swaps-Philadelphia-D3WACBS
+table6-Assets-Total Assets-Foreign Currency Denominated Assets-Philadelphia-D3WFCDA
+table6-Assets-Total Assets-Other Assets-Philadelphia-H41RESPPAEF03NWW
+table6-Assets-Total Assets-Interdistrict Settlement Account-Philadelphia-D3WAISAL
+table6-Liabilities-Total Liabilities-Federal Reserve Notes, Net-Philadelphia-D3WLNNBH
+table6-Liabilities-Total Liabilities-Reverse Repurchase Agreements-Philadelphia-D3WLRRA
+table6-Liabilities-Total Liabilities-Deposits-Depository Institutions-Philadelphia-H41RESPPLLDEF03NWW
+table6-Liabilities-Total Liabilities-Deposits-U.S. Treasury, General Account-Philadelphia-D3WLTGAL
+table6-Liabilities-Total Liabilities-Deposits-Foreign Official-Philadelphia-D3WLFOL
+table6-Liabilities-Total Liabilities-Deposits-Other-Philadelphia-D3WLOCL
+table6-Liabilities-Total Liabilities-Earnings Remittances Due to the U.S. Treasury-Philadelphia-D3WLINT
+table6-Liabilities-Total Liabilities-Treasury Contributions to Credit Facilities-Philadelphia-H41RESH4EF03NWW
+table6-Liabilities-Total Liabilities-Other Liabilities and Accrued Dividends-Philadelphia-H41RESPPLLEF03NWW
+table6-Capital-Capital Paid In-Philadelphia-D3WCPIL
+table6-Capital-Surplus-Philadelphia-D3WCSL
+table6-Capital-Other Capital-Philadelphia-D3WCPCA
+table6-Total Liabilities and Capital-Philadelphia-D3WTLAC
+table6-Assets-Total Assets-Gold Certificates and Special Drawing Rights Certificates-Cleveland-H41RESPPARF04NWW
+table6-Assets-Total Assets-Coin-Cleveland-D4WACL
+table6-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Cleveland-D4WSRLL
+table6-Assets-Total Assets-Net Portfolio Holdings of Commercial Paper Funding Facility II LLC-Cleveland-H41RESPPAAC2HF04NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Corporate Credit Facilities LLC-Cleveland-H41RESPPAABF04NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of MS Facilities LLC-Cleveland-H41RESPPAAEF04NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Municipal Liquidity Facility LLC-Cleveland-H41RESPPAADHF04NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of TALF II LLC-Cleveland-H41RESPPAATAL2HF04NWW
+table6-Assets-Total Assets-Central Bank Liquidity Swaps-Cleveland-D4WACBS
+table6-Assets-Total Assets-Foreign Currency Denominated Assets-Cleveland-D4WFCDA
+table6-Assets-Total Assets-Other Assets-Cleveland-H41RESPPAEF04NWW
+table6-Assets-Total Assets-Interdistrict Settlement Account-Cleveland-D4WAISAL
+table6-Liabilities-Total Liabilities-Federal Reserve Notes, Net-Cleveland-D4WLNNBH
+table6-Liabilities-Total Liabilities-Reverse Repurchase Agreements-Cleveland-D4WLRRA
+table6-Liabilities-Total Liabilities-Deposits-Depository Institutions-Cleveland-H41RESPPLLDEF04NWW
+table6-Liabilities-Total Liabilities-Deposits-U.S. Treasury, General Account-Cleveland-D4WLTGAL
+table6-Liabilities-Total Liabilities-Deposits-Foreign Official-Cleveland-D4WLFOL
+table6-Liabilities-Total Liabilities-Deposits-Other-Cleveland-D4WLOCL
+table6-Liabilities-Total Liabilities-Earnings Remittances Due to the U.S. Treasury-Cleveland-D4WLINT
+table6-Liabilities-Total Liabilities-Treasury Contributions to Credit Facilities-Cleveland-H41RESH4EF04NWW
+table6-Liabilities-Total Liabilities-Other Liabilities and Accrued Dividends-Cleveland-H41RESPPLLEF04NWW
+table6-Capital-Capital Paid In-Cleveland-D4WCPIL
+table6-Capital-Surplus-Cleveland-D4WCSL
+table6-Capital-Other Capital-Cleveland-D4WCPCA
+table6-Total Liabilities and Capital-Cleveland-D4WTLAC
+table6-Assets-Total Assets-Gold Certificates and Special Drawing Rights Certificates-Richmond-H41RESPPARF05NWW
+table6-Assets-Total Assets-Coin-Richmond-D5WACL
+table6-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Richmond-D5WSRLL
+table6-Assets-Total Assets-Net Portfolio Holdings of Commercial Paper Funding Facility II LLC-Richmond-H41RESPPAAC2HF05NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Corporate Credit Facilities LLC-Richmond-H41RESPPAABF05NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of MS Facilities LLC-Richmond-H41RESPPAAEF05NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Municipal Liquidity Facility LLC-Richmond-H41RESPPAADHF05NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of TALF II LLC-Richmond-H41RESPPAATAL2HF05NWW
+table6-Assets-Total Assets-Central Bank Liquidity Swaps-Richmond-D5WACBS
+table6-Assets-Total Assets-Foreign Currency Denominated Assets-Richmond-D5WFCDA
+table6-Assets-Total Assets-Other Assets-Richmond-H41RESPPAEF05NWW
+table6-Assets-Total Assets-Interdistrict Settlement Account-Richmond-D5WAISAL
+table6-Liabilities-Total Liabilities-Federal Reserve Notes, Net-Richmond-D5WLNNBH
+table6-Liabilities-Total Liabilities-Reverse Repurchase Agreements-Richmond-D5WLRRA
+table6-Liabilities-Total Liabilities-Deposits-Depository Institutions-Richmond-H41RESPPLLDEF05NWW
+table6-Liabilities-Total Liabilities-Deposits-U.S. Treasury, General Account-Richmond-D5WLTGAL
+table6-Liabilities-Total Liabilities-Deposits-Foreign Official-Richmond-D5WLFOL
+table6-Liabilities-Total Liabilities-Deposits-Other-Richmond-D5WLOCL
+table6-Liabilities-Total Liabilities-Earnings Remittances Due to the U.S. Treasury-Richmond-D5WLINT
+table6-Liabilities-Total Liabilities-Treasury Contributions to Credit Facilities-Richmond-H41RESH4EF05NWW
+table6-Liabilities-Total Liabilities-Other Liabilities and Accrued Dividends-Richmond-H41RESPPLLEF05NWW
+table6-Capital-Capital Paid In-Richmond-D5WCPIL
+table6-Capital-Surplus-Richmond-D5WCSL
+table6-Capital-Other Capital-Richmond-D5WCPCA
+table6-Total Liabilities and Capital-Richmond-D5WTLAC
+table6-Assets-Total Assets-Gold Certificates and Special Drawing Rights Certificates-Atlanta-H41RESPPARF06NWW
+table6-Assets-Total Assets-Coin-Atlanta-D6WACL
+table6-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Atlanta-D6WSRLL
+table6-Assets-Total Assets-Net Portfolio Holdings of Commercial Paper Funding Facility II LLC-Atlanta-H41RESPPAAC2HF06NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Corporate Credit Facilities LLC-Atlanta-H41RESPPAABF06NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of MS Facilities LLC-Atlanta-H41RESPPAAEF06NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Municipal Liquidity Facility LLC-Atlanta-H41RESPPAADHF06NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of TALF II LLC-Atlanta-H41RESPPAATAL2HF06NWW
+table6-Assets-Total Assets-Central Bank Liquidity Swaps-Atlanta-D6WACBS
+table6-Assets-Total Assets-Foreign Currency Denominated Assets-Atlanta-D6WFCDA
+table6-Assets-Total Assets-Other Assets-Atlanta-H41RESPPAEF06NWW
+table6-Assets-Total Assets-Interdistrict Settlement Account-Atlanta-D6WAISAL
+table6-Liabilities-Total Liabilities-Federal Reserve Notes, Net-Atlanta-D6WLNNBH
+table6-Liabilities-Total Liabilities-Reverse Repurchase Agreements-Atlanta-D6WLRRA
+table6-Liabilities-Total Liabilities-Deposits-Depository Institutions-Atlanta-H41RESPPLLDEF06NWW
+table6-Liabilities-Total Liabilities-Deposits-U.S. Treasury, General Account-Atlanta-D6WLTGAL
+table6-Liabilities-Total Liabilities-Deposits-Foreign Official-Atlanta-D6WLFOL
+table6-Liabilities-Total Liabilities-Deposits-Other-Atlanta-D6WLOCL
+table6-Liabilities-Total Liabilities-Earnings Remittances Due to the U.S. Treasury-Atlanta-D6WLINT
+table6-Liabilities-Total Liabilities-Treasury Contributions to Credit Facilities-Atlanta-H41RESH4EF06NWW
+table6-Liabilities-Total Liabilities-Other Liabilities and Accrued Dividends-Atlanta-H41RESPPLLEF06NWW
+table6-Capital-Capital Paid In-Atlanta-D6WCPIL
+table6-Capital-Surplus-Atlanta-D6WCSL
+table6-Capital-Other Capital-Atlanta-D6WCPCA
+table6-Total Liabilities and Capital-Atlanta-D6WTLAC
+table6-Assets-Total Assets-Gold Certificates and Special Drawing Rights Certificates-Chicago-H41RESPPARF07NWW
+table6-Assets-Total Assets-Coin-Chicago-D7WACL
+table6-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Chicago-D7WSRLL
+table6-Assets-Total Assets-Net Portfolio Holdings of Commercial Paper Funding Facility II LLC-Chicago-H41RESPPAAC2HF07NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Corporate Credit Facilities LLC-Chicago-H41RESPPAABF07NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of MS Facilities LLC-Chicago-H41RESPPAAEF07NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Municipal Liquidity Facility LLC-Chicago-H41RESPPAADHF07NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of TALF II LLC-Chicago-H41RESPPAATAL2HF07NWW
+table6-Assets-Total Assets-Central Bank Liquidity Swaps-Chicago-D7WACBS
+table6-Assets-Total Assets-Foreign Currency Denominated Assets-Chicago-D7WFCDA
+table6-Assets-Total Assets-Other Assets-Chicago-H41RESPPAEF07NWW
+table6-Assets-Total Assets-Interdistrict Settlement Account-Chicago-D7WAISAL
+table6-Liabilities-Total Liabilities-Federal Reserve Notes, Net-Chicago-D7WLNNBH
+table6-Liabilities-Total Liabilities-Reverse Repurchase Agreements-Chicago-D7WLRRA
+table6-Liabilities-Total Liabilities-Deposits-Depository Institutions-Chicago-H41RESPPLLDEF07NWW
+table6-Liabilities-Total Liabilities-Deposits-U.S. Treasury, General Account-Chicago-D7WLTGAL
+table6-Liabilities-Total Liabilities-Deposits-Foreign Official-Chicago-D7WLFOL
+table6-Liabilities-Total Liabilities-Deposits-Other-Chicago-D7WLOCL
+table6-Liabilities-Total Liabilities-Earnings Remittances Due to the U.S. Treasury-Chicago-D7WLINT
+table6-Liabilities-Total Liabilities-Treasury Contributions to Credit Facilities-Chicago-H41RESH4EF07NWW
+table6-Liabilities-Total Liabilities-Other Liabilities and Accrued Dividends-Chicago-H41RESPPLLEF07NWW
+table6-Capital-Capital Paid In-Chicago-D7WCPIL
+table6-Capital-Surplus-Chicago-D7WCSL
+table6-Capital-Other Capital-Chicago-D7WCPCA
+table6-Total Liabilities and Capital-Chicago-D7WTLAC
+table6-Assets-Total Assets-Gold Certificates and Special Drawing Rights Certificates-St. Louis-H41RESPPARF08NWW
+table6-Assets-Total Assets-Coin-St. Louis-D8WACL
+table6-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-St. Louis-D8WSRLL
+table6-Assets-Total Assets-Net Portfolio Holdings of Commercial Paper Funding Facility II LLC-St. Louis-H41RESPPAAC2HF08NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Corporate Credit Facilities LLC-St. Louis-H41RESPPAABF08NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of MS Facilities LLC-St. Louis-H41RESPPAAEF08NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Municipal Liquidity Facility LLC-St. Louis-H41RESPPAADHF08NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of TALF II LLC-St. Louis-H41RESPPAATAL2HF08NWW
+table6-Assets-Total Assets-Central Bank Liquidity Swaps-St. Louis-D8WACBS
+table6-Assets-Total Assets-Foreign Currency Denominated Assets-St. Louis-D8WFCDA
+table6-Assets-Total Assets-Other Assets-St. Louis-H41RESPPAEF08NWW
+table6-Assets-Total Assets-Interdistrict Settlement Account-St. Louis-D8WAISAL
+table6-Liabilities-Total Liabilities-Federal Reserve Notes, Net-St. Louis-D8WLNNBH
+table6-Liabilities-Total Liabilities-Reverse Repurchase Agreements-St. Louis-D8WLRRA
+table6-Liabilities-Total Liabilities-Deposits-Depository Institutions-St. Louis-H41RESPPLLDEF08NWW
+table6-Liabilities-Total Liabilities-Deposits-U.S. Treasury, General Account-St. Louis-D8WLTGAL
+table6-Liabilities-Total Liabilities-Deposits-Foreign Official-St. Louis-D8WLFOL
+table6-Liabilities-Total Liabilities-Deposits-Other-St. Louis-D8WLOCL
+table6-Liabilities-Total Liabilities-Earnings Remittances Due to the U.S. Treasury-St. Louis-D8WLINT
+table6-Liabilities-Total Liabilities-Treasury Contributions to Credit Facilities-St. Louis-H41RESH4EF08NWW
+table6-Liabilities-Total Liabilities-Other Liabilities and Accrued Dividends-St. Louis-H41RESPPLLEF08NWW
+table6-Capital-Capital Paid In-St. Louis-D8WCPIL
+table6-Capital-Surplus-St. Louis-D8WCSL
+table6-Capital-Other Capital-St. Louis-D8WCPCA
+table6-Total Liabilities and Capital-St. Louis-D8WTLAC
+table6-Assets-Total Assets-Gold Certificates and Special Drawing Rights Certificates-Minneapolis-H41RESPPARF09NWW
+table6-Assets-Total Assets-Coin-Minneapolis-D9WACL
+table6-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Minneapolis-D9WSRLL
+table6-Assets-Total Assets-Net Portfolio Holdings of Commercial Paper Funding Facility II LLC-Minneapolis-H41RESPPAAC2HF09NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Corporate Credit Facilities LLC-Minneapolis-H41RESPPAABF09NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of MS Facilities LLC-Minneapolis-H41RESPPAAEF09NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Municipal Liquidity Facility LLC-Minneapolis-H41RESPPAADHF09NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of TALF II LLC-Minneapolis-H41RESPPAATAL2HF09NWW
+table6-Assets-Total Assets-Central Bank Liquidity Swaps-Minneapolis-D9WACBS
+table6-Assets-Total Assets-Foreign Currency Denominated Assets-Minneapolis-D9WFCDA
+table6-Assets-Total Assets-Other Assets-Minneapolis-H41RESPPAEF09NWW
+table6-Assets-Total Assets-Interdistrict Settlement Account-Minneapolis-D9WAISAL
+table6-Liabilities-Total Liabilities-Federal Reserve Notes, Net-Minneapolis-D9WLNNBH
+table6-Liabilities-Total Liabilities-Reverse Repurchase Agreements-Minneapolis-D9WLRRA
+table6-Liabilities-Total Liabilities-Deposits-Depository Institutions-Minneapolis-H41RESPPLLDEF09NWW
+table6-Liabilities-Total Liabilities-Deposits-U.S. Treasury, General Account-Minneapolis-D9WLTGAL
+table6-Liabilities-Total Liabilities-Deposits-Foreign Official-Minneapolis-D9WLFOL
+table6-Liabilities-Total Liabilities-Deposits-Other-Minneapolis-D9WLOCL
+table6-Liabilities-Total Liabilities-Earnings Remittances Due to the U.S. Treasury-Minneapolis-D9WLINT
+table6-Liabilities-Total Liabilities-Treasury Contributions to Credit Facilities-Minneapolis-H41RESH4EF09NWW
+table6-Liabilities-Total Liabilities-Other Liabilities and Accrued Dividends-Minneapolis-H41RESPPLLEF09NWW
+table6-Capital-Capital Paid In-Minneapolis-D9WCPIL
+table6-Capital-Surplus-Minneapolis-D9WCSL
+table6-Capital-Other Capital-Minneapolis-D9WCPCA
+table6-Total Liabilities and Capital-Minneapolis-D9WTLAC
+table6-Assets-Total Assets-Gold Certificates and Special Drawing Rights Certificates-Kansas City-H41RESPPARF10NWW
+table6-Assets-Total Assets-Coin-Kansas City-D10WACL
+table6-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Kansas City-D10WSRLL
+table6-Assets-Total Assets-Net Portfolio Holdings of Commercial Paper Funding Facility II LLC-Kansas City-H41RESPPAAC2HF10NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Corporate Credit Facilities LLC-Kansas City-H41RESPPAABF10NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of MS Facilities LLC-Kansas City-H41RESPPAAEF10NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Municipal Liquidity Facility LLC-Kansas City-H41RESPPAADHF10NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of TALF II LLC-Kansas City-H41RESPPAATAL2HF10NWW
+table6-Assets-Total Assets-Central Bank Liquidity Swaps-Kansas City-D10WACBS
+table6-Assets-Total Assets-Foreign Currency Denominated Assets-Kansas City-D10WFCDA
+table6-Assets-Total Assets-Other Assets-Kansas City-H41RESPPAEF10NWW
+table6-Assets-Total Assets-Interdistrict Settlement Account-Kansas City-D10WAISAL
+table6-Liabilities-Total Liabilities-Federal Reserve Notes, Net-Kansas City-D10WLNNBH
+table6-Liabilities-Total Liabilities-Reverse Repurchase Agreements-Kansas City-D10WLRRA
+table6-Liabilities-Total Liabilities-Deposits-Depository Institutions-Kansas City-H41RESPPLLDEF10NWW
+table6-Liabilities-Total Liabilities-Deposits-U.S. Treasury, General Account-Kansas City-D10WLTGAL
+table6-Liabilities-Total Liabilities-Deposits-Foreign Official-Kansas City-D10WLFOL
+table6-Liabilities-Total Liabilities-Deposits-Other-Kansas City-D10WLOCL
+table6-Liabilities-Total Liabilities-Earnings Remittances Due to the U.S. Treasury-Kansas City-D10WLINT
+table6-Liabilities-Total Liabilities-Treasury Contributions to Credit Facilities-Kansas City-H41RESH4EF10NWW
+table6-Liabilities-Total Liabilities-Other Liabilities and Accrued Dividends-Kansas City-H41RESPPLLEF10NWW
+table6-Capital-Capital Paid In-Kansas City-D10WCPIL
+table6-Capital-Surplus-Kansas City-D10WCSL
+table6-Capital-Other Capital-Kansas City-D10WCPCA
+table6-Total Liabilities and Capital-Kansas City-D10WTLAC
+table6-Assets-Total Assets-Gold Certificates and Special Drawing Rights Certificates-Dallas-H41RESPPARF11NWW
+table6-Assets-Total Assets-Coin-Dallas-D11WACL
+table6-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-Dallas-D11WSRLL
+table6-Assets-Total Assets-Net Portfolio Holdings of Commercial Paper Funding Facility II LLC-Dallas-H41RESPPAAC2HF11NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Corporate Credit Facilities LLC-Dallas-H41RESPPAABF11NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of MS Facilities LLC-Dallas-H41RESPPAAEF11NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Municipal Liquidity Facility LLC-Dallas-H41RESPPAADHF11NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of TALF II LLC-Dallas-H41RESPPAATAL2HF11NWW
+table6-Assets-Total Assets-Central Bank Liquidity Swaps-Dallas-D11WACBS
+table6-Assets-Total Assets-Foreign Currency Denominated Assets-Dallas-D11WFCDA
+table6-Assets-Total Assets-Other Assets-Dallas-H41RESPPAEF11NWW
+table6-Assets-Total Assets-Interdistrict Settlement Account-Dallas-D11WAISAL
+table6-Liabilities-Total Liabilities-Federal Reserve Notes, Net-Dallas-D11WLNNBH
+table6-Liabilities-Total Liabilities-Reverse Repurchase Agreements-Dallas-D11WLRRA
+table6-Liabilities-Total Liabilities-Deposits-Depository Institutions-Dallas-H41RESPPLLDEF11NWW
+table6-Liabilities-Total Liabilities-Deposits-U.S. Treasury, General Account-Dallas-D11WLTGAL
+table6-Liabilities-Total Liabilities-Deposits-Foreign Official-Dallas-D11WLFOL
+table6-Liabilities-Total Liabilities-Deposits-Other-Dallas-D11WLOCL
+table6-Liabilities-Total Liabilities-Earnings Remittances Due to the U.S. Treasury-Dallas-D11WLINT
+table6-Liabilities-Total Liabilities-Treasury Contributions to Credit Facilities-Dallas-H41RESH4EF11NWW
+table6-Liabilities-Total Liabilities-Other Liabilities and Accrued Dividends-Dallas-H41RESPPLLEF11NWW
+table6-Capital-Capital Paid In-Dallas-D11WCPIL
+table6-Capital-Surplus-Dallas-D11WCSL
+table6-Capital-Other Capital-Dallas-D11WCPCA
+table6-Total Liabilities and Capital-Dallas-D11WTLAC
+table6-Assets-Total Assets-Gold Certificates and Special Drawing Rights Certificates-San Francisco-H41RESPPARF12NWW
+table6-Assets-Total Assets-Coin-San Francisco-D12WACL
+table6-Assets-Total Assets-Securities, Unamoritized Premiums and Discounts, Repurchase Agreements, and Loans-San Francisco-D12WSRLL
+table6-Assets-Total Assets-Net Portfolio Holdings of Commercial Paper Funding Facility II LLC-San Francisco-H41RESPPAAC2HF12NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Corporate Credit Facilities LLC-San Francisco-H41RESPPAABF12NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of MS Facilities LLC-San Francisco-H41RESPPAAEF12NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of Municipal Liquidity Facility LLC-San Francisco-H41RESPPAADHF12NWW
+table6-Assets-Total Assets-Net Portfolio Holdings of TALF II LLC-San Francisco-H41RESPPAATAL2HF12NWW
+table6-Assets-Total Assets-Central Bank Liquidity Swaps-San Francisco-D12WACBS
+table6-Assets-Total Assets-Foreign Currency Denominated Assets-San Francisco-D12WFCDA
+table6-Assets-Total Assets-Other Assets-San Francisco-H41RESPPAEF12NWW
+table6-Assets-Total Assets-Interdistrict Settlement Account-San Francisco-D12WAISAL
+table6-Liabilities-Total Liabilities-Federal Reserve Notes, Net-San Francisco-D12WLNNBH
+table6-Liabilities-Total Liabilities-Reverse Repurchase Agreements-San Francisco-D12WLRRA
+table6-Liabilities-Total Liabilities-Deposits-Depository Institutions-San Francisco-H41RESPPLLDEF12NWW
+table6-Liabilities-Total Liabilities-Deposits-U.S. Treasury, General Account-San Francisco-D12WLTGAL
+table6-Liabilities-Total Liabilities-Deposits-Foreign Official-San Francisco-D12WLFOL
+table6-Liabilities-Total Liabilities-Deposits-Other-San Francisco-D12WLOCL
+table6-Liabilities-Total Liabilities-Earnings Remittances Due to the U.S. Treasury-San Francisco-D12WLINT
+table6-Liabilities-Total Liabilities-Treasury Contributions to Credit Facilities-San Francisco-H41RESH4EF12NWW
+table6-Liabilities-Total Liabilities-Other Liabilities and Accrued Dividends-San Francisco-H41RESPPLLEF12NWW
+table6-Capital-Capital Paid In-San Francisco-D12WCPIL
+table6-Capital-Surplus-San Francisco-D12WCSL
+table6-Capital-Other Capital-San Francisco-D12WCPCA
+table6-Total Liabilities and Capital-San Francisco-D12WTLAC
+table7-Federal Reserve Notes Outstanding-RESPPLLNONWW
+table7-Federal Reserve Notes Outstanding-Less Notes Held by F.R. Banks Not Subject To Collateralization-RESPPLLNONNWW
+table7-Federal Reserve Notes Outstanding-Less Notes Held by F.R. Banks Not Subject To Collateralization-Federal Reserve Notes To Be Collateralized-RESPPLLNOCNWW
+table7-Federal Reserve Notes Outstanding-Collateral Held Against Federal Reserve Notes-RESPPNNWW
+table7-Federal Reserve Notes Outstanding-Collateral Held Against Federal Reserve Notes-Gold Certificate Account-RESPPNGNWW
+table7-Federal Reserve Notes Outstanding-Collateral Held Against Federal Reserve Notes-Special Drawing Rights Certificate Account-RESPPNSNWW
+table7-Federal Reserve Notes Outstanding-Collateral Held Against Federal Reserve Notes-U.S. Treasury, Agency Debt, and Mortgage Backed Securities Pledged-RESPPNTEPPNWW
+table7-Federal Reserve Notes Outstanding-Collateral Held Against Federal Reserve Notes-Other Assets Pledged-RESPPNONWW
+table7-Memo-Total U.S. Treasury, Agency Debt, and Mortgage Backed Securities-RESPPNTNWW
+table7-Memo-Total U.S. Treasury, Agency Debt, and Mortgage Backed Securities-Less Face Value of Securities Under Reverse Repurchase Agreements-RESH4MFNWW
+table7-Memo-Total U.S. Treasury, Agency Debt, and Mortgage Backed Securities-Less Face Value of Securities Under Reverse Repurchase Agreements-U.S. Treasury, Agency Debt, and Mortgage-Backed Securities Pledged-RESPPNTEPNWW

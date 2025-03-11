@@ -1,0 +1,9 @@
+The following file contains the sources for data present in this project.
+
+Data in H41_Series_Ids.txt:
+    Link to Federal Reserve Dataset: https://fred.stlouisfed.org/release/tables?rid=20
+    Link to Structure and Explanation of Dataset: https://www.federalreserve.gov/releases/h41/20250306/ 
+
+Data in H8_Series_Ids.txt:
+    Link to Federal Reserve Dataset: https://fred.stlouisfed.org/tags/series?t=h8 
+    Link to Structure and Explanation of Dataset: https://www.federalreserve.gov/releases/h8/current/default.htm 
